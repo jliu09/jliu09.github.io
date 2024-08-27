@@ -5,32 +5,22 @@ links:
   - label: GitHub
     url: "https://github.com/jliu09"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "jliu407@jh.edu"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Julie Liu is a masters student studying Epidemiology at Johns Hopkins Bloomberg School of Public Health. She is excited about her new academic journey and is fully prepared for the challenges and opportunities ahead. In her spare time, she enjoys swing dancing, playing social deception game(BOTC), listening to music, cooking, and many more.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**The Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
-Ph.D. in Computer Science | September 2009 - May 2014
+M.S. in Epidemiology | August 2024 - present
 
-**The University of California, Berkeley** | Berkeley, CA
+**Oberlin College of Arts and Sciences** | Oberlin, OH
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Biology | September 2020 - May 2024
 
-## Experience
-
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
