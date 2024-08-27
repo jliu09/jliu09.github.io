@@ -2,25 +2,41 @@
 title: "Julie Liu"
 image: "001.jpg"
 links:
-  - label: GitHub
-    url: "https://github.com/jliu09"
-  - label: Email
+  - label: '`r fontawesome::fa("github-square", fill = "#8C1721")` GitHub'
+    url: "https://jliu09.github.io/"
+  - label: '`r fontawesome::fa("envelope", fill = "#8C1721")` Email'
     url: "jliu407@jh.edu"
 output:
   postcards::trestles
 ---
+
+```{r load_packages, message = FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+
+pal1 = "#63D4FD" # pale azure
+pal4 = "#AFE9FE" # non-photo blue, 20% lighter
+pal6 = "#40B8E0" # 20% darker
+pal2 = "#EA7E5D" # burnt sienna
+pal3 = "#EC8C6F" # coral
+pal5 = "#8C1721" # carmine
+pal7 = "#C8504D" # bittersweet shimmer, 20% lighter than carmine
+
+```
  
-## Bio
+## <span style="color:  #8C1721;"> Bio</span>
 
 Julie Liu is a masters student studying Epidemiology at Johns Hopkins Bloomberg School of Public Health. She is excited about her new academic journey and is fully prepared for the challenges and opportunities ahead. In her spare time, she enjoys swing dancing, playing social deception game(BOTC), listening to music, cooking, and many more.
 
-## Education
+---
 
-**The Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+## <span style="color:  #8C1721;"> Education</span>
 
-M.S. in Epidemiology | August 2024 - present
+|  |  |
+|:--------------------------------------------------|:----------------|
 
-**Oberlin College of Arts and Sciences** | Oberlin, OH
-
-B.S. in Biology | September 2020 - May 2024
+| **The Johns Hopkins Bloomberg School of Public Health, Maryland** [August 2024 - present]{style="float:right"}
+| M.S. in Epidemiology
+| <br>
+| **Oberlin College of Arts and Sciences, Ohio** [September 2020 - May 2024]{style="float:right"}
+| B.S. in Biology
 
