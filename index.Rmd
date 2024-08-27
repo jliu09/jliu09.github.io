@@ -1,13 +1,9 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Julie Liu"
+image: "001.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/jliu09"
   - label: Email
     url: "mailto:email@email.com"
 output:
