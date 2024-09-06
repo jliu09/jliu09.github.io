@@ -5,7 +5,7 @@ links:
   - label: '`r fontawesome::fa("github-square", fill = "#8C1721")` GitHub'
     url: "https://jliu09.github.io/"
   - label: '`r fontawesome::fa("envelope", fill = "#8C1721")` Email'
-    url: "jliu407@jh.edu"
+    url: "mailto:jliu407@jh.edu"
 output:
   postcards::trestles
 ---
